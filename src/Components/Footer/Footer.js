@@ -7,10 +7,10 @@ export default class Footer extends Component {
         <div className="row">
           <div className="twelve columns">
             <ul className="social-links">
-              <li><a href="https://www.facebook.com/javier.cobo.5" target="_blank"><i className="fa fa-facebook" /></a></li>
-              <li><a href="https://twitter.com/javcob" target="_blank"><i className="fa fa-twitter" /></a></li>
-              <li><a href="https://www.linkedin.com/in/javier-cobo96/" target="_blank"><i className="fa fa-linkedin" /></a></li>
-              <li><a href="https://github.com/CoboJavier" target="_blank"><i className="fa fa-github" /></a></li>
+              <li><a href="https://www.facebook.com/javier.cobo.5" target="_blank" rel="noopener noreferrer"><i className="fa fa-facebook" /></a></li>
+              <li><a href="https://twitter.com/javcob" target="_blank" rel="noopener noreferrer"><i className="fa fa-twitter" /></a></li>
+              <li><a href="https://www.linkedin.com/in/javier-cobo96/" target="_blank" rel="noopener noreferrer"><i className="fa fa-linkedin" /></a></li>
+              <li><a href="https://github.com/CoboJavier" target="_blank" rel="noopener noreferrer"><i className="fa fa-github" /></a></li>
             </ul>
             <ul className="copyright">
               <li>© Copyright 2020 Cobo-Javier</li>
